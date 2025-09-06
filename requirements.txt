@@ -1,0 +1,10 @@
+scipy
+numpy
+pandas
+matplotlib
+PyMySQL
+sqlalchemy
+scikit-learn
+problexity
+lxml
+selenium
